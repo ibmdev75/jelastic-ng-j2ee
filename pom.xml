@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>jelastic-ng-j2ee</finalName>
+    <finalName>jelastic-ng-j2ee reverse proxy</finalName>
   </build>
 </project>
